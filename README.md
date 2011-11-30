@@ -56,18 +56,58 @@ Controlling a F5 load balancer with SOAP.
 * Command-line options with GetoptLong
 * Using SOAP/WSDL
 
-#### Remaining
+#### sagevann
 
-    srchase
-    sagevann
-    Leto7
-    calebkm
-    seungkoh
-    joshlin
-    shawjaso
-    ajlitzin
-    drollwit
-    johnchaffee
+Take back Black Friday [givewhitefriday.us](http://givewhitefriday.us)
+
+* Sinatra
+* heroku
+
+#### srchase
+
+Parsing public health data CSV files
+
+* CSV Mapper
+
+#### joshlin
+
+Exploring Ruby!
+
+#### johnchaffee
+
+Blogging with Ruby powered by Highline
+
+* Highline
+* Enumerable
+
+#### [calebkm](https://github.com/calebkm/bookmarkers)
+
+Web-based Bookmark manager - [bookmarkers](https://github.com/calebkm/bookmarkers).
+
+* Sinatra
+* Haml
+* Barometer
+* Thin
+
+#### [seungkoh](https://github.com/seungkoh/us_heat_map)
+
+Political Affiliation Mapping
+
+* Sinatra
+* Datamapper
+* Geocoder
+* Geochart
+
+#### [shawjaso](https://github.com/shawjaso/shawjaso-fall-project)
+
+Authorized Links - *keeping your shit on lockdown - since 2011*
+
+#### drollwit
+
+THE BEST PRESENTATION EVER!
+
+#### Remaining Presentations
+
     colind2
     kinakuta
     krystoff
@@ -81,11 +121,10 @@ Controlling a F5 load balancer with SOAP.
     timsalazar
     volleyref
     blackfalcon
-
-### Week 10
-
     wynnb
     krystoff
     nellshamrell
     ajlitzin
     paulruiz
+    Leto7
+    ajlitzin
