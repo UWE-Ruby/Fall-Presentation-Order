@@ -106,9 +106,14 @@ Political Affiliation Mapping
 
 Authorized Links - *keeping your shit on lockdown - since 2011*
 
-#### drollwit
+#### [drollwit](https://github.com/drollwit/Knotsystem)
 
-THE BEST PRESENTATION EVER!
+*Should you kiss that cousin? Find out how closely related you are first!*
+or Find out who *really* is your baby daddy!
+
+* Sinatra
+* Highline
+* OpenStruct
 
 #### Remaining Presentations
     
