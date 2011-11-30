@@ -2,6 +2,7 @@
 
 ### Week 9
 
+    tuefelsdrock
     shakesoda
     cesullivan
     ianand0204
@@ -26,7 +27,6 @@
     johnchaffee
     colind2
     kinakuta
-    tuefelsdrock
     krystoff
     jigripokri
     fearnp
