@@ -65,6 +65,10 @@ Take back Black Friday [givewhitefriday.us](http://givewhitefriday.us)
 
 #### srchase
 
+[Remote Controlling](https://github.com/srchase/sinatra-browser-remote) the browser of another computer from your phone - *aka. the couch potato app*
+
+#### colind2
+
 Parsing public health data CSV files
 
 * CSV Mapper
@@ -107,8 +111,7 @@ Authorized Links - *keeping your shit on lockdown - since 2011*
 THE BEST PRESENTATION EVER!
 
 #### Remaining Presentations
-
-    colind2
+    
     kinakuta
     krystoff
     jigripokri
