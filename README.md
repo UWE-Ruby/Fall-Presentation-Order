@@ -25,20 +25,27 @@ IRC Bot with back-end file support for beer types. Also an Urban Dictionary API
 * Unshredding images with Ruby
 * Ruby Spec testing Ruby
 
+### mungruby
+
+Exploring the deeper bowls of Ruby's Enumerable and Mmetaprogramming 
+
+#### [stim371](https://github.com/stim371/uncoil)
+
+[Uncoil](http://www.uncoil.me/) - URL un-shortening with bit.ly or brute force HTTP methods
+
+#### saintsalo & meussram
+
+[Soundplotter](https://github.com/meussram/wav) - Creating plots of WAV
 
 #### Remaining
 
-      stim371
-      mungruby
       wynnb
       mercedessanjuan
-      meussram
       Jth3000
       srchase
       paulruiz
       Leto7
       calebkm
-      saintsalo
       seungkoh
       joshlin
       shawjaso
