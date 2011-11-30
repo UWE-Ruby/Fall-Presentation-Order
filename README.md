@@ -26,37 +26,39 @@ IRC Bot with back-end file support for beer types. Also an Urban Dictionary API
 * Ruby Spec testing Ruby
 
 
-    stim371
-    mungruby
-    wynnb
-    mercedessanjuan
-    meussram
-    Jth3000
-    srchase
-    paulruiz
-    Leto7
-    calebkm
-    saintsalo
-    seungkoh
-    joshlin
-    shawjaso
-    ajlitzin
-    drollwit
-    johnchaffee
-    colind2
-    kinakuta
-    krystoff
-    jigripokri
-    fearnp
-    rubysoho
-    Brianpro
-    sagevann
-    adokey
-    noisycrow
-    gdrohan
-    timsalazar
-    volleyref
-    blackfalcon
+#### Remaining
+
+      stim371
+      mungruby
+      wynnb
+      mercedessanjuan
+      meussram
+      Jth3000
+      srchase
+      paulruiz
+      Leto7
+      calebkm
+      saintsalo
+      seungkoh
+      joshlin
+      shawjaso
+      ajlitzin
+      drollwit
+      johnchaffee
+      colind2
+      kinakuta
+      krystoff
+      jigripokri
+      fearnp
+      rubysoho
+      Brianpro
+      sagevann
+      adokey
+      noisycrow
+      gdrohan
+      timsalazar
+      volleyref
+      blackfalcon
 
 ### Week 10
 
