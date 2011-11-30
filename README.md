@@ -2,15 +2,33 @@
 
 ### Week 9
 
-    tuefelsdrock
-    shakesoda
-    cesullivan
-    ianand0204
+#### tuefelsdrock
+
+Genome mutations to find the best value to fill your Fry's bag.
+
+#### [shakesoda](http://github.com/shakesoda/week-07-colby)
+
+1. Sinatra Application
+2. Math
+3. [Mandelbrot Fractal](http://github.com/shakesoda/week-07-colby)
+
+#### cesullivan
+
+Parsing a `real-world` XML with HappyMapper
+
+#### ianand0204
+
+IRC Bot with back-end file support for beer types. Also an Urban Dictionary API
+
+#### [ejalbos & jessegoodnoe](https://github.com/ejalbos/project-ruby-spec)
+ 
+* Unshredding images with Ruby
+* Ruby Spec testing Ruby
+
+
     stim371
-    ejalbos
     mungruby
     wynnb
-    jessegoodnoe
     mercedessanjuan
     meussram
     Jth3000
@@ -43,3 +61,5 @@
 ### Week 10
 
     nellshamrell
+    ajlitzin
+    krystoff
