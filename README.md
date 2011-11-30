@@ -20,6 +20,8 @@ Parsing a `real-world` XML with HappyMapper
 
 IRC Bot with back-end file support for beer types. Also an Urban Dictionary API
 
+* Cinch IRC
+
 #### [ejalbos & jessegoodnoe](https://github.com/ejalbos/project-ruby-spec)
  
 * Unshredding images with Ruby
@@ -27,48 +29,63 @@ IRC Bot with back-end file support for beer types. Also an Urban Dictionary API
 
 ### mungruby
 
-Exploring the deeper bowls of Ruby's Enumerable and Mmetaprogramming 
+Exploring the deeper bowls of Ruby's Enumerable and Metaprogramming 
 
 #### [stim371](https://github.com/stim371/uncoil)
 
 [Uncoil](http://www.uncoil.me/) - URL un-shortening with bit.ly or brute force HTTP methods
 
-#### saintsalo & meussram
+* bit.ly API
+* HTTP
+
+#### [saintsalo & meussram](https://github.com/meussram/wav)
 
 [Soundplotter](https://github.com/meussram/wav) - Creating plots of WAV
 
+* Sinatra
+* 
+
+#### mercedessanjuan
+
+Pretotyping a working DeployBot in the midst of chaos
+
+##### [Jth3000](https://github.com/Jth3000/f5-icontrol-10.2.0.2)
+
+Controlling a F5 load balancer with SOAP.
+
+* Command-line options with GetoptLong
+* Using SOAP/WSDL
+
 #### Remaining
 
-      wynnb
-      mercedessanjuan
-      Jth3000
-      srchase
-      paulruiz
-      Leto7
-      calebkm
-      seungkoh
-      joshlin
-      shawjaso
-      ajlitzin
-      drollwit
-      johnchaffee
-      colind2
-      kinakuta
-      krystoff
-      jigripokri
-      fearnp
-      rubysoho
-      Brianpro
-      sagevann
-      adokey
-      noisycrow
-      gdrohan
-      timsalazar
-      volleyref
-      blackfalcon
+    srchase
+    sagevann
+    Leto7
+    calebkm
+    seungkoh
+    joshlin
+    shawjaso
+    ajlitzin
+    drollwit
+    johnchaffee
+    colind2
+    kinakuta
+    krystoff
+    jigripokri
+    fearnp
+    rubysoho
+    Brianpro
+    adokey
+    noisycrow
+    gdrohan
+    timsalazar
+    volleyref
+    blackfalcon
 
 ### Week 10
 
+    wynnb
+    krystoff
     nellshamrell
     ajlitzin
-    krystoff
+    paulruiz
