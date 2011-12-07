@@ -2,7 +2,7 @@
 
 ### Week 9
 
-#### tuefelsdrock
+#### [tuefelsdrock](https://github.com/tuefelsdrock/ESS)
 
 Genome mutations to find the best value to fill your Fry's bag.
 
@@ -16,7 +16,7 @@ Genome mutations to find the best value to fill your Fry's bag.
 
 Parsing a `real-world` XML with HappyMapper
 
-#### ianand0204
+#### [ianand0204](https://github.com/ianand0204/cliffbot)
 
 IRC Bot with back-end file support for beer types. Also an Urban Dictionary API
 
@@ -27,7 +27,7 @@ IRC Bot with back-end file support for beer types. Also an Urban Dictionary API
 * Unshredding images with Ruby
 * Ruby Spec testing Ruby
 
-### mungruby
+### [mungruby](https://github.com/mungruby/mungruby-week-09-project)
 
 Exploring the deeper bowls of Ruby's Enumerable and Metaprogramming 
 
@@ -63,21 +63,17 @@ Take back Black Friday [givewhitefriday.us](http://givewhitefriday.us)
 * Sinatra
 * heroku
 
-#### srchase
+#### [srchase](https://github.com/srchase/sinatra-browser-remote)
 
 [Remote Controlling](https://github.com/srchase/sinatra-browser-remote) the browser of another computer from your phone - *aka. the couch potato app*
 
-#### colind2
+#### Leto7
 
 Parsing public health data CSV files
 
 * CSV Mapper
 
-#### joshlin
-
-Exploring Ruby!
-
-#### johnchaffee
+#### [johnchaffee](https://github.com/johnchaffee/build-blog)
 
 Blogging with Ruby powered by Highline
 
@@ -132,7 +128,7 @@ POST, GET, and templates oh my!
 * Graphviz
 * Workflow
 
-#### Brianpro
+#### [Brianpro & gdrohan](https://github.com/gdrohan/Prothero-Drohan-project)
 
 Cucumber - Behavior Driven Development
 
@@ -141,18 +137,51 @@ Using human language test to drive tests through a website and through an API.
 * Cucumber
 * Regular Expressions
 
-#### Remaining Presentations
+#### [adokey](https://github.com/adokey/awskeys)
+
+Managing Amazon Web Services credentials with ease.
+
+* Optparse
+* YAML
+
+#### [timsalazar](https://github.com/timsalazar/timsalazar-uw-ruby-project)
+
+*Has this movie been remade yet?* a website to inform you if your childhood has been ruined.
+
+* IMDBParty
+* Sinatra
+
+#### [volleyref](https://github.com/volleyref/UW-Sung-ruby-final-project)
+
+Stalking people with the WhitePages API
+
+* WhitePages API
+* Massive JSON
+* Sinatra
+
+#### [blackfalcon](https://github.com/blackfalcon/Crom)
+
+Saving yourself from tiresome url creation with CROM!
+
+#### [nellshamrell](https://github.com/nellshamrell)
+
+Rolling dice with Twitter.
+
+* Twitter 
+* Rspec
+
+#### [joshlin](https://github.com/joshlin/todolistapp)
+
+Get your life in order from wherever you are located. Make it your first todo!
+
+* Datamapper
+* Sinatra
+
+#### Missing Presentations
     
-    adokey
-    noisycrow
-    gdrohan
-    timsalazar
-    volleyref
-    blackfalcon
-    wynnb
-    nellshamrell
     paulruiz
-    Leto7
     jigripokri
     fearnp
     rubysoho
+    noisycrow
+    wynnb
