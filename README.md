@@ -115,14 +115,34 @@ or Find out who *really* is your baby daddy!
 * Highline
 * OpenStruct
 
+#### [kinakuta](https://github.com/kinakuta/spcdc)
+
+A static website for the Sand Point Children. 
+
+POST, GET, and templates oh my!
+
+* Sinatra
+* Pony
+
+#### [krystoff & ajlitzin](https://github.com/krystoff/fall-project)
+
+**Are you a zombie?** Find out with the *Zombie Identification* Quiz
+
+* Highline
+* Graphviz
+* Workflow
+
+#### Brianpro
+
+Cucumber - Behavior Driven Development
+
+Using human language test to drive tests through a website and through an API.
+
+* Cucumber
+* Regular Expressions
+
 #### Remaining Presentations
     
-    kinakuta
-    krystoff
-    jigripokri
-    fearnp
-    rubysoho
-    Brianpro
     adokey
     noisycrow
     gdrohan
@@ -130,9 +150,9 @@ or Find out who *really* is your baby daddy!
     volleyref
     blackfalcon
     wynnb
-    krystoff
     nellshamrell
-    ajlitzin
     paulruiz
     Leto7
-    ajlitzin
+    jigripokri
+    fearnp
+    rubysoho
