@@ -180,8 +180,5 @@ Get your life in order from wherever you are located. Make it your first todo!
 #### Missing Presentations
     
     paulruiz
-    jigripokri
-    fearnp
     rubysoho
-    noisycrow
     wynnb
